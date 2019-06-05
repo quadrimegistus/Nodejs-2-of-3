@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "16-Axios/2-WithPackage/package.json",
+        "17-OMDB_Axios/package.json",
+        "18-OMDB_Axios_Students/Solved/package.json"
+      ]
+    }
+  }
+}

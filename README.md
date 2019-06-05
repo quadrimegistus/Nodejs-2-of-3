@@ -1,5 +1,7 @@
 # Nodejs-2-of-3
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/parallelam/Nodejs-2-of-3.svg)](https://greenkeeper.io/)
+
 Node.js Activities
 
 Experimentation and self education with Node.js activities, exercises and challenges.
